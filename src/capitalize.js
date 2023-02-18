@@ -1,4 +1,4 @@
-const capitalize = (text) => {
+export const capitalize = (text) => {
   if (text === '') {
     return '';
   }
